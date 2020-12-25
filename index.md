@@ -1,12 +1,16 @@
 # Welcome!
 
+
+## Personal goal of this blog: Feature reference and documentation. ##
+
+
 **Some notes for the reader.**
-- My own opinion.
-- Doesn't need to be correct (I try my best).
-- Just some notes that can help you.
-- Blogging helps me learn. 
-- will be brief at the beginning. 
+- Opinions are my own.
+- Documentation that can help you.
+- Blogging helps me to learn. 
+
+
 
 **Focuse area: IT Security technical.**
 
-_More to come......_
+_ More to come......_
