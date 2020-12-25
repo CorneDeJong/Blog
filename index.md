@@ -1,11 +1,9 @@
 # Welcome!
 
 **Some notes for the reader.**
-- My own opinion.
-- Doesn't need to be correct (I try my best).
+- Opinions are my own.
 - Just some notes that can help you.
 - Blogging helps me learn. 
-- will be brief at the beginning. 
 
 **Focuse area: IT Security technical.**
 
