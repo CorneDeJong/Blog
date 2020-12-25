@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! #
 ## Blog about Security and device management related topics. ##
 
 **Some notes for the readers.**
@@ -6,5 +6,5 @@
 - Documentation that can help you.
 - Blogging helps me to learn. 
 
-_ Personal goal of this blog: Feature reference and documentation. _
+Personal goal of this blog: Feature reference and documentation. 
 
