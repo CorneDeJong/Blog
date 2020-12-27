@@ -2,8 +2,7 @@
 
 **Quick blog about how to troubelshoot Microsoft Endpoint Manager managed Android devices**
 
-This blog is about troubelshooting Android devices managed by Microsoft Endpoint Manager(MEM).
-The blog post provide information on how you can use the Android Debug Bridge(ADB) to get a Unix shell on a Android Phone. 
+This blog is about troubelshooting Android devices managed by Microsoft Endpoint Manager(MEM). The blog post provide information on how you can use the Android Debug Bridge(ADB) to get a Unix shell on a Android Phone. 
 
 This can be usefull for:
 - Troubelshooting issues.
@@ -17,8 +16,7 @@ Personal goal of this blog: Feature reference and documentation.
 
 
 ## Enable usb debugging ##
-For devices that are enrolled into MEM as a Corporate-owned, fully managed user device or Corporate-owned dedicated device debugging need to be enabled. 
-Debugging is disabled by default for these enrollment senarios.
+For devices that are enrolled into MEM as a Corporate-owned, fully managed user device or Corporate-owned dedicated device debugging need to be enabled. Debugging is disabled by default for these enrollment senarios.
 
 
 **Configuration MEM:**
