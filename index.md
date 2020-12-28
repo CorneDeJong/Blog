@@ -1,4 +1,4 @@
-## Security and Device Management blog. 
+
 
 ### Intro
 
@@ -14,7 +14,7 @@ The benefit of delivering this informaiton in a public blog format is:
 + Opinions and advice are my own and not necessary of my employer.
 + Blogging helps me to learn. 
 
-_ This blog is about Security and device management related topics. _
+_This blog is about Security and device management related topics_
 
 
 
