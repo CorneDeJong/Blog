@@ -1,5 +1,7 @@
-# Blog about Security and Device Management related topics. #
+# Security and Device Management blog. 
 
+
+## Blog about Security and Device Management related topics. ##
 **Some notes for the readers.**
 - Opinions are my own.
 - Documentation that can help you.
