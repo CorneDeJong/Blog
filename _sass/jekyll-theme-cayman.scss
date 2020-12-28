@@ -377,3 +377,11 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+
+//cutomization
+
+.imgagpic {
+  max-width:100%;
+  object-fit: scale-down;
+}
