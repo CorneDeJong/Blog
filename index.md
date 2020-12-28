@@ -1,11 +1,22 @@
 # Security and Device Management blog. 
 
+### Intro
 
-## Blog about Security and Device Management related topics. ##
-**Some notes for the readers.**
-- Opinions are my own.
-- Documentation that can help you.
+As a Microsoft Customer Engineer I work with a with varity of customer to help them succesfully adopt Microsoft Solutions including: delivering advice, removing blockers, integrating solutions in current estate.
+The goal of this blog is to provide documentation, learnings for future reference. 
+
+The benefit of delivering this informaiton in a public blog format is: 
+- Easier reference.
+- Reach everyone can benefit from it.
+- helps me learn.
+
+**Some notes:**
+- Opinions and advice are my own and not necessary ofmy employer.
 - Blogging helps me to learn. 
+- Information is based on experience doesn't need to be necesarry correct.
 
-Personal goal of this blog: Feature reference and documentation. 
+
+_ This blog is about Security and device management related topics. 
+
+
 
