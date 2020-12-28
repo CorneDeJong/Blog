@@ -383,6 +383,10 @@ a {
 
 .imgagpic {
   object-fit: cover;
-  margin: 5px 5px 5px 5px;
+  display: block;
+  max-width:100px;
+  max-height:140px;
+  width: auto;
+  height: auto;
   float: left;
  }
