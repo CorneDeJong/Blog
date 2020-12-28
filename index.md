@@ -1,5 +1,4 @@
-# Welcome! #
-## Blog about Security and Device Management related topics. ##
+# Blog about Security and Device Management related topics. #
 
 **Some notes for the readers.**
 - Opinions are my own.
