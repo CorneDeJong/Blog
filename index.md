@@ -17,9 +17,7 @@ The benefit of delivering this information in a public blog format is:
 _This blog is about Security and device management related topics_
 
 ---
-
-<br><br>
-
+<br>
 _Corné de Jong_
 
 
