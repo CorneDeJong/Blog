@@ -14,6 +14,8 @@ The benefit of delivering this information in a public blog format is:
 + Blogging helps me to learn. 
 
 
+_This blog is about Security and device management related topics_
+
 ---
 
 <br><br>
@@ -21,7 +23,7 @@ The benefit of delivering this information in a public blog format is:
 _Corné de Jong_
 
 
-_This blog is about Security and device management related topics_
+
 
 
 
