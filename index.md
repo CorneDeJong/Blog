@@ -16,7 +16,8 @@ The benefit of delivering this information in a public blog format is:
 
 ---
 
-<br></br>
+<br><br>
+
 _Corné de Jong_
 
 
