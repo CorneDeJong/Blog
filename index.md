@@ -1,8 +1,7 @@
 # Blog Intro
 
 As a Microsoft Customer Engineer, i work with a variety of customer to help successfully adopt our Solutions. 
-The aim of this blog is to provide documentation, learnings for future reference to help with successful adoption and integration. 
-
+The aim of this blog is to share knowledge, documentation and learnings for future reference. 
 
 The benefit of delivering this information in a public blog format is: 
 + Easy reference.
