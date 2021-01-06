@@ -62,8 +62,9 @@ Hereby a list of usefull things you can do know we are having a shell access.
 **Collect logs**: Reproduce the senario were you want to collect logs for(for example run a app): And run: `Adb logcat -v > CollectedLOG.txt`
 please note: do **not run** above command in a already established shell as above command remotely gather the log info.
 
-Example log snipped: In below log snipped of CollectedLOG.txt we can see that the Intune App is on-screen as the ActivityManager is starting the app and loading the app screens. 
-![Open Microsoft Intune App on Android](/Images/IntuneAppLog.JPG)
+Example log snipped: In below log snipped of CollectedLOG.txt we can see that the Intune App is on-screen as the ActivityManager is starting the app and is loading the app screens/pages. 
+
+![Open Microsoft Intune App on Android](/Images/applog1.JPG)
 
 **List of all apps including package name**
 Usefull for finding package name for reference in MEM for example uninstall particullary out of the box user of system apps from MEM.
@@ -72,6 +73,7 @@ Usefull for finding package name for reference in MEM for example uninstall part
 - Oneliner without the need to setup the shell first: `adb shell pm list packages`
 
 Example output of pm list packages:
+
 ![PM List](/Images/pmlist.JPG)
 
 
