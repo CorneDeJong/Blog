@@ -46,37 +46,40 @@ Android Debug Bridge(ADB) is part of the Android Studio SDK platform tools and c
 When downloaded we can extract the tools and use the adb.exe. First we want to check if the adb tool detect our Android phone. 
 This can be done by: `adb devices`
 
-To do: Device list screen pic
+![adb devices](/Images/adbdevices.JPG)
 
 We can start a unix shell by: `adb shell`
 
-To do: Shell screen pic:
+![adb shell](/Images/adbshell.JPG)
 
-Note: The context of the adb shell is normal user as our device is not rooted. Permissions are the same context as using your phone. 
-Apps on the Phone will have a unique UID: unique linux user context. Therefore we cannot access all folders or services as we simply do not have permissions to do so.
+Note: The context of the adb shell is not rooted. Permissions are the same context as using your phone. 
+Apps on the Phone will have a unique UID: unique linux user context. Therefore we do have limited permissions and cannot access all folders, app data or services as we simply do not have permissions to do so.
 
 
 ## Usefull senarios ##
-Hereby a list of usefull things you can do know we are having a shell. 
+Hereby a list of usefull things you can do know we are having a shell access. 
 
 **Collect logs**: Reproduce the senario were you want to collect logs for(for example run a app): And run: `Adb logcat -v > CollectedLOG.txt`
-please note: do **not** above command in a already established shell as above command remotely gather the log info.
+please note: do **not run** above command in a already established shell as above command remotely gather the log info.
+
+Example log snipped: In below log snipped of CollectedLOG.txt we can see that the Intune App is on-screen as the ActivityManager is starting the app and loading the app screens. 
+![Open Microsoft Intune App on Android](/Images/IntuneAppLog.JPG)
 
 **List of all apps including package name**
-Usefull for finding package name for uninstall particullary out of the box user or system apps from MEM.
+Usefull for finding package name for reference in MEM for example uninstall particullary out of the box user of system apps from MEM.
 
 - First start a shell by: `adb shell` In the shell run: `pm list packages`
 - Oneliner without the need to setup the shell first: `adb shell pm list packages`
 
-**Additional examples from the Shell**
+Example output of pm list packages:
+![PM List](/Images/pmlist.JPG)
+
+
+**Additional usefull examples from the Shell**
 
 - Press Home button: `adb shell input keyevent 3`
 - List of TCP connectivity: `adb shell netstat`
 - Copy file from Computer to Phone: `adb push [source] [destination]`
 - Copy file from Phone to Computer:  `adb pull [device file location] [local file location]`
-
-
-**Usefull folders**
-
-**Usefull MEM related info**
+- Uninstall app: `pm uninstall -k --user 0 Package Name`
 
