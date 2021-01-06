@@ -82,4 +82,3 @@ Example output of pm list packages:
 - Copy file from Computer to Phone: `adb push [source] [destination]`
 - Copy file from Phone to Computer:  `adb pull [device file location] [local file location]`
 - Uninstall app: `pm uninstall -k --user 0 Package Name`
-
