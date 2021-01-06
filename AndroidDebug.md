@@ -24,8 +24,8 @@ Enabeling debugging can be done by: Creating a Device Configuration profile were
 
 ![MEM DebugAllow](/Images/DebugAllow.JPG)
 
-Device Configuration Profile -> Android Enterprise -> Device Restriction -> General
--> Debugging features : Allow
+_Device Configuration Profile -> Android Enterprise -> Device Restriction -> General
+-> Debugging features : Allow_
 
 **Android Device: Enable developer mode and USB debugging:**
 We need to enable developer mode on the Android phone to to enable debugging.
