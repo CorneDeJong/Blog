@@ -41,7 +41,8 @@ We can now connect the phone via USB to your device.
 ## Use ADB ##
 **Connect ADB:**
 Android Debug Bridge(ADB) is a command line tool which can be used to communicate with a Android Device.
-Android Debug Bridge(ADB) is part of the Android Studio SDK platform tools and can be downloaded from: https://developer.android.com/studio/releases/platform-tools
+Android Debug Bridge(ADB) is part of the Android Studio SDK platform tools and can be downloaded from: 
+https://developer.android.com/studio/releases/platform-tools
 
 When downloaded we can extract the tools and use the adb.exe. First we want to check if the adb tool detect our Android phone. 
 This can be done by: `adb devices`
@@ -64,7 +65,7 @@ please note: do **not run** above command in a already established shell as abov
 
 Example log snipped: In below log snipped of CollectedLOG.txt we can see that the Intune App is on-screen as the ActivityManager is starting the app and is loading the app screens/pages. 
 
-![Open Microsoft Intune App on Android](/Images/applog1.JPG)
+![Open Microsoft Intune App on Android](/Images/applog2.JPG)
 
 **List of all apps including package name**
 Usefull for finding package name for reference in MEM for example uninstall particullary out of the box user of system apps from MEM.
